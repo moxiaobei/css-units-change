@@ -1,6 +1,6 @@
 {
   "name": "css-units-change",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css的单位的互转的postcss插件",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "exchange",
     "change"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxiaobei/css-units-change.git"
+  },
   "author": "donghualei",
   "license": "ISC"
 }
