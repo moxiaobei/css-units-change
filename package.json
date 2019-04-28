@@ -1,0 +1,17 @@
+{
+  "name": "css-units-change",
+  "version": "1.0.1",
+  "description": "css的单位的互转的postcss插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "unit",
+    "exchange",
+    "change"
+  ],
+  "author": "donghualei",
+  "license": "ISC"
+}
